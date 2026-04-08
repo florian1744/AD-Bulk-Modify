@@ -25,7 +25,7 @@
     .\AD-Bulk-Modify.ps1 -Execute # Real changes
 
 .NOTES
-    Author: @Florian1744
+    Author: @florian1744
     Version: 2.0 
 #>
 
